@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geetha-hd
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data science and Machine learning in python
-- 💞️ I’m looking to collaborate with someone who is interested in Data Science and Machine learning,to work in teams.
+- 👀 I’m interested in full stack web developer
+- 🌱 I’m currently learning Django in python
+- 💞️ I’m looking to collaborate with someone who is interested to work in teams.
 
 
 <!---
